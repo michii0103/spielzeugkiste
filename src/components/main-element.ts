@@ -18,6 +18,6 @@ export class MainElement extends LitElement {
   `;
 
   render() {
-    return html` Space for future projects... `;
+    return html` Spielzeugkiste... `;
   }
 }
